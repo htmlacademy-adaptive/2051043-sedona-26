@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Руслан  Гаряев](https://up.htmlacademy.ru/adaptive/26/user/2051043).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
